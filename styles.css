@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgba(0, 251, 255, 0.273);
+}
+
+main{
+
+    padding: 30px;
+    /* width: 120px; */
+
+}
+div{
+    /* height: fit-content; */
+
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+div h3 {
+
+    /* margin-top: 40px; */
+    padding: 12px;
+}
+div button{
+    
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20px;
+    cursor: pointer;
+    color: black;
+    /* overflow: none; */
+    border-radius: 120px;
+    border: 30px;
+    padding: 20px;
+
+    background-color: rgb(0, 162, 255);
+
+}
